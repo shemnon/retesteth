@@ -133,6 +133,11 @@ BOOST_AUTO_TEST_CASE(stCreate2) {}
 BOOST_AUTO_TEST_CASE(stExtCodeHash) {}
 BOOST_AUTO_TEST_CASE(stSStoreTest) {}
 
+// Istanbul Tests
+BOOST_AUTO_TEST_CASE(stChainId) {}
+BOOST_AUTO_TEST_CASE(stSelfBalance) {}
+BOOST_AUTO_TEST_CASE(stSLoadTest) {}
+
 // Stress Tests
 BOOST_AUTO_TEST_CASE(stAttackTest) {}
 BOOST_AUTO_TEST_CASE(stMemoryStressTest) {}
